@@ -1,5 +1,3 @@
-package com.darren.view_day01;
-
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Canvas;
@@ -10,8 +8,8 @@ import android.view.MotionEvent;
 import android.view.View;
 
 /**
- * Email 240336124@qq.com
- * Created by Darren on 2017/5/13.
+ * Email 727005920@qq.com
+ * Created by Dy on 2020/1/5.
  * Version 1.0
  * Description:
  */
